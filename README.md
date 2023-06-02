@@ -1,6 +1,6 @@
 # GameOn - Connecting Local Sports Enthusiasts
 
-![GameOn Logo](https://example.com/gameson_logo.png)
+<!-- ![GameOn Logo](https://example.com/gameson_logo.png) -->
 
 GamesOn is a revolutionary Flutter app that aims to bring the sports community together by connecting local sports enthusiasts. With GamesOn, you can easily set up matches, tournaments, and competitions among yourselves, providing a platform for friendly competition and fostering a sense of community among sports lovers.
 
@@ -17,12 +17,14 @@ GamesOn is a revolutionary Flutter app that aims to bring the sports community t
 - **Notifications**: Stay up to date with all the upcoming matches, tournaments, and competitions through personalized notifications. Never miss an opportunity to join a game or show off your skills.
 
 ## Screenshots
+<img src="https://github.com/abhishekkumar11724/gameson/assets/82565067/011d23f9-a13d-487f-9ebb-d5bbcf156437" alt="opening_page" style="height:600px;">
+<img src="https://github.com/abhishekkumar11724/gameson/assets/82565067/21558eed-0aaf-4639-b628-50a3a8c036d1" alt="login" style="height:600px;">
+<img src="https://github.com/abhishekkumar11724/gameson/assets/82565067/2772bfb6-20b7-4330-8bae-d6a97b73f68e" alt="landing_page" style="height:600px;">
+<img src="https://github.com/abhishekkumar11724/gameson/assets/82565067/edc6d918-5d26-47b3-9d82-9da2ca8dd465" alt="start_match" style="height:600px;">
+<img src="https://github.com/abhishekkumar11724/gameson/assets/82565067/dff0c831-723f-4aea-aac7-2b9b1b25039f" alt="enter_match" style="height:600px;">
+<img src="https://github.com/abhishekkumar11724/gameson/assets/82565067/890cd0f0-36f9-4234-998c-78a913690af4" alt="tournament" style="height:600px;">
 
-![Home Screen](https://example.com/home_screen.png)
 
-![Match Setup](https://example.com/match_setup.png)
-
-![Tournaments](https://example.com/tournaments.png)
 
 <!-- ![Community](https://example.com/community.png) -->
 
@@ -32,12 +34,12 @@ To use GamesOn, follow these simple steps:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/username/gameson.git
+   git clone https://github.com/abhishekkumar11724/gameson.git
    ```
 
 2. Install the required dependencies using Flutter.
    ```bash
-   cd gameson
+   cd gameon
    flutter pub get
    ```
 
@@ -75,15 +77,7 @@ We welcome contributions from the community to make GamesOn even better. If you 
 
 GamesOn is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Support
 
-For any questions, issues, or suggestions regarding GamesOn, please reach out to our support team at [support@gameson.com](mailto:support@gameson.com).
-
-Connect with us on social media:
-
-- Twitter: [@GamesOnApp](https://twitter.com/GamesOnApp)
-- Facebook: [GamesOnApp](https://www.facebook.com/GamesOnApp)
-- Instagram: [@gamesonapp](https://www.instagram.com/gamesonapp)
 
 We hope you enjoy using GamesOn and have a fantastic time connecting with the local sports community! Let the games begin! 🏆🏀⚽️🎾
 
